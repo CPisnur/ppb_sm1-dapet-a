@@ -1,0 +1,2 @@
+Buka folder BMICalculator ini lewat Android Studio: File > Open.
+Android Studio akan membuat local.properties (lokasi SDK) dan mengunduh Gradle otomatis.

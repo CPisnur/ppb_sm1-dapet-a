@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color bg_screen
+color biru
+color hijau
+color teks
+color ungu
+color white
+drawable bg_badge
+drawable bg_card
+drawable ic_add
+drawable ic_calculator
+drawable ic_chart
+drawable ic_refresh
+id btnHitung
+id btnKategori
+id btnReset
+id etBerat
+id etTinggi
+id tvHasil
+id tvKategori
+layout activity_main
+string app_name
+string error_berat
+string error_tinggi
+string hasil_bmi
+string hint_berat
+string hint_tinggi
+string hitung_bmi
+string kategori_bmi
+string label_berat
+string label_tinggi
+string lihat_kategori
+string reset
+string tutup
+style Theme.BMICalculator

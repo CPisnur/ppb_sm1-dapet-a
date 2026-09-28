@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_screen">#F3F6FB</color>
+    <color name="biru">#1565C0</color>
+    <color name="ungu">#7C3AED</color>
+    <color name="hijau">#22A64B</color>
+    <color name="teks">#1F2937</color>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/drawable_bg_card.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/drawable_ic_chart.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/drawable_bg_badge.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/drawable/bg_badge.xml"
+    },
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/drawable_ic_calculator.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/drawable/ic_calculator.xml"
+    },
+    {
+        "merged": "com.example.bmicalculator.app-debug-31:/drawable_ic_add.xml.flat",
+        "source": "com.example.bmicalculator.app-main-33:/drawable/ic_add.xml"
+    }
+]

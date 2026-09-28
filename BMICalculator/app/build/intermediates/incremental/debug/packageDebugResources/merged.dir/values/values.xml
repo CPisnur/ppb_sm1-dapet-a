@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_screen">#F3F6FB</color>
+    <color name="biru">#1565C0</color>
+    <color name="hijau">#22A64B</color>
+    <color name="teks">#1F2937</color>
+    <color name="ungu">#7C3AED</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">BMI Calculator</string>
+    <string name="error_berat">Berat badan harus lebih dari 0</string>
+    <string name="error_tinggi">Tinggi badan harus lebih dari 0</string>
+    <string name="hasil_bmi">Hasil BMI</string>
+    <string name="hint_berat">Contoh: 70</string>
+    <string name="hint_tinggi">Contoh: 170</string>
+    <string name="hitung_bmi">Hitung BMI</string>
+    <string name="kategori_bmi">Kategori BMI</string>
+    <string name="label_berat">Berat Badan (kg)</string>
+    <string name="label_tinggi">Tinggi Badan (cm)</string>
+    <string name="lihat_kategori">Lihat Kategori</string>
+    <string name="reset">Reset</string>
+    <string name="tutup">Tutup</string>
+    <style name="Theme.BMICalculator" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/biru</item>
+        <item name="android:statusBarColor">@color/biru</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

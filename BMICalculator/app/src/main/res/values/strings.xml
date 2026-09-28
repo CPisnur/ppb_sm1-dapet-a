@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="label_berat">Berat Badan (kg)</string>
+    <string name="label_tinggi">Tinggi Badan (cm)</string>
+    <string name="hint_berat">Contoh: 70</string>
+    <string name="hint_tinggi">Contoh: 170</string>
+    <string name="hitung_bmi">Hitung BMI</string>
+    <string name="reset">Reset</string>
+    <string name="lihat_kategori">Lihat Kategori</string>
+    <string name="hasil_bmi">Hasil BMI</string>
+    <string name="kategori_bmi">Kategori BMI</string>
+    <string name="tutup">Tutup</string>
+    <string name="error_berat">Berat badan harus lebih dari 0</string>
+    <string name="error_tinggi">Tinggi badan harus lebih dari 0</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.BMICalculator" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/biru</item>
+        <item name="android:statusBarColor">@color/biru</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
