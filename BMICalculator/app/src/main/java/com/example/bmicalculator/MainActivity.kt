@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
         binding.tvKategori.visibility = View.INVISIBLE
         binding.etBerat.requestFocus()
     }
-    
+
     private fun tampilkanDialogKategori() {
         val dp = resources.displayMetrics.density
         val container = LinearLayout(this).apply {
