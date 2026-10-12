@@ -21,7 +21,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 
-// Model Data Mahasiswa
 data class StudentModel(
     val id: String,
     val nim: String,
